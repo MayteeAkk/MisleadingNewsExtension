@@ -1,1 +1,2 @@
 # MisleadingNewsExtension
+This is very much a work-in progress project. The goal for this project is to make a Chrome Extension(Or Something Like That) that reads in article titles/articles/snippets of text and evaluates them to show the degree of reliability that the article contains. Maybe even show how the article leans?
